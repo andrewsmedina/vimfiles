@@ -13,3 +13,6 @@ set tabpagemax=20
 set autoindent
 set smartindent
 set smarttab
+
+filetype indent on
+filetype plugin on
