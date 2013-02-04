@@ -1,7 +1,9 @@
 "Setting VIMHOME
 let $VIMHOME = $HOME."/.vim"
 
-"Enabling sintax color. 
+execute pathogen#infect()
+
+"Enabling sintax color.
 syntax on
 
 "Bad whitespaces
