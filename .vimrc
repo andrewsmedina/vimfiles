@@ -18,3 +18,7 @@ set smarttab
 
 filetype indent on
 filetype plugin on
+
+"Hidden mode
+set hidden
+set ruler
