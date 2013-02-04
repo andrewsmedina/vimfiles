@@ -22,3 +22,6 @@ filetype plugin on
 "Hidden mode
 set hidden
 set ruler
+
+"Backspace
+set backspace=2
